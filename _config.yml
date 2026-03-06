@@ -1,7 +1,7 @@
 # Site settings
 title: TIN313 - MY PORTFOLIO
 email: anhnguyenha06@gmail.com
-url: url: https://k632412820005-hash.github.io
+url: https://k632412820005-hash.github.io
 description: "Sinh viên khoá 63 - Trường Đại học Ngoại thương"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: Nguyễn Hà Anh
@@ -43,7 +43,7 @@ social:
   - title: instagram
     url: https://www.instagram.com/kl.ngha/ 
   - title: github
-    url: url: https://k632412820005-hash.github.io
+    url: https://k632412820005-hash.github.io
 
 # Postal address (add as many lines as necessary)
 address:
