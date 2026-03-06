@@ -1,7 +1,7 @@
 # Site settings
 title: TIN313 - MY PORTFOLIO
 email: anhnguyenha06@gmail.com
-url: https://k632412820005-hash.github.io
+url: "https://k632412820005-hash.github.io"
 description: "Sinh viên khoá 63 - Trường Đại học Ngoại thương"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: Nguyễn Hà Anh
@@ -13,7 +13,7 @@ google_verify:
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -24,10 +24,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 1abc9c      
+  primary: 1abc9c
   primary-rgb: "26,188,156"
-  secondary: 1a1a1a    
-  secondary-dark: 0f0f0f 
+  secondary: 1a1a1a
+  secondary-dark: 0f0f0f
 
 # Footer settings
 footer:
@@ -37,13 +37,13 @@ footer:
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social: 
+social:
   - title: facebook
-    url: https://www.facebook.com/tuanm.huu/ 
+    url: https://www.facebook.com/tuanm.huu/
   - title: instagram
-    url: https://www.instagram.com/kl.ngha/ 
+    url: https://www.instagram.com/kl.ngha/
   - title: github
-    url: https://k632412820005-hash.github.io
+    url: https://github.com/k632412820005-hash
 
 # Postal address (add as many lines as necessary)
 address:
