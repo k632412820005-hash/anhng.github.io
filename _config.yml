@@ -34,7 +34,7 @@ footer:
   copyright: Ha Anh Nguyen
   location: Location
   social: Contacts
-  credits: Credits
+  credits: Course
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,7 +50,7 @@ address:
   - line: Ha Noi, Viet Nam
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'TIN313 - Mr. Tran Cong Minh'
 
 # Build settings
 markdown: kramdown
